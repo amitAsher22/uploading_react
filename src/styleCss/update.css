@@ -1,0 +1,40 @@
+.updateMaindiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  align-items: center;
+  background-color: black;
+  height: 100vh;
+  color: orange;
+  align-items: center;
+
+
+
+}
+
+.titleOfUpdate {
+  font-size: 2rem;
+  font-family: "heebo";
+}
+
+.inputUpdate {
+  width: 100%;
+  padding: 1rem 4rem;
+  font-size: 1.5rem;
+}
+
+.divOfData {
+  width: 90%;
+}
+
+.updateBtnReall {
+  width: 100%;
+  padding: 1rem 3rem;
+  font-size: 2rem;
+  background-color: green;
+}
+
+.imgLogos {
+  width: 300px;
+
+}

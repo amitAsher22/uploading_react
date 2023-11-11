@@ -1,0 +1,50 @@
+.DadDivOfUsers {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  width: 300px;
+  height: 100%;
+  border: 1px solid rgb(176, 174, 174);
+  border-bottom-left-radius: 22px;
+  border-bottom-right-radius: 22px;
+  background-color: hsl(208, 25%, 46%);
+  color: black;
+
+}
+
+
+.divOfImag {
+  width: 100%;
+  height: 200px;
+
+}
+
+.btnGroup {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem
+}
+
+.titleCard {
+  font-size: 2.5rem;
+  font-weight: 700;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.buttonUse {
+  background-color: black;
+  color: white;
+  padding: 0.5rem 2rem;
+  border-radius: 22px;
+  font-weight: 100;
+  font-size: 1rem;
+
+}
+
+.buttonUse:hover {
+  cursor: pointer;
+}

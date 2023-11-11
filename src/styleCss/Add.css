@@ -1,0 +1,48 @@
+.containerAddInputs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+}
+
+.nameInputs {
+  font-size: 3rem;
+  font-family: "Heebo";
+  color: rgb(43, 37, 41);
+  font-weight: 600;
+}
+
+.inputName {
+  padding: 0.5rem 2rem;
+  width: 400px;
+  text-align: center;
+  justify-content: center;
+  border: none;
+  color: rgb(9, 9, 9);
+  font-weight: 800;
+  margin-bottom: 2rem;
+  font-size: 1rem;
+}
+
+.btnAdd {
+  width: 50rem;
+  padding: 1rem 3rem;
+  background-color: hsl(208, 25%, 46%);
+  color: rgb(255, 255, 255);
+  font-size: 3rem;
+  font-family: 'Hebbo';
+  border: none;
+  margin: 3rem 0px;
+}
+
+.btnAdd:hover {
+  cursor: pointer;
+}
+
+.imgAdd {
+  width: 400px;
+  height: 300px;
+}
